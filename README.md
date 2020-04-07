@@ -26,3 +26,15 @@ git add . # 添加所有文件
 git commit -m <comments> # 提交修改
 git push -u <remote> <branch> # 推到远程代码库
 ```
+
+## 第三步，修改他！
+有一天，你觉得这个方法不行，或者说别人拿枪指着你逼你改
+
+好嘛，改嘛
+
+```javascript
+let index = $('#index')
+```
+
+提交！
+

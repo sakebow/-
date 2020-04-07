@@ -1,1 +1,1 @@
-var index = document.getElementById('#index')
+let index = $('index')
